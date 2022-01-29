@@ -8,7 +8,7 @@ Building API's for a social network web application where users can share their 
 
 ## Application Preview
 
--[Click here to see a video of the application!](https://watch.screencastify.com/v/e9OvTdNtZPoONnFwLehQ)
+[Click here to see a video of the application!](https://watch.screencastify.com/v/e9OvTdNtZPoONnFwLehQ)
 
 ## What was used in this project?
 
